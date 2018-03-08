@@ -21,9 +21,7 @@ b) ParcelDeliveryCalculator is a class library which has all the core business l
 
 c) ParcelDeliveryCalculator.Tests contains five tests for Calculate function.
 
-EXERCISE
-Write a program that receives four integer inputs to indicate the weight and size of a parcel for 
-postage, and returns the cost of delivery. 
+Receives four integer inputs to indicate the weight and size of a parcel for postage, and returns the cost of delivery. 
 The user inputs are:
 1.  Weight (kg)
 2.  Height (cm)
